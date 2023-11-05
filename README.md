@@ -8,4 +8,8 @@ Amacı: Expired Domain den bulunan domainlerin DA, TF, SS, İNDEX ve PR durumunu
 ## İlerleme Durumu
 
 - [X] Rapor Oluşturulması
-- [ ] Raporda Metirksel Analizler Yapılıp daha özel bir raporun hazırlanması.
+- [X] Raporda Metirksel Analizler Yapılıp daha özel bir raporun hazırlanması.
+- [ ] Veri analizinin yapıldığı script olan "filter.py" ile temel analizin yapıldığı "web.py" scripti içerisindeki özellikler "main.py" dosyasında toplanarak tek bir parça haline getirilecek.
+- [ ] GUI/UI Yapılacak.
+- [ ] CrossPlatform ile hem windows hemde macos için sürümler hazırlanacak.
+- [ ] Kod Optimizasyonu.
