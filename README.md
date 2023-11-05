@@ -34,4 +34,3 @@ Objective: To output the DA, TF, SS, INDEX and PR status of the domains found fr
 - With CrossPlatform, versions will be prepared for both windows and macos.
 - Code Optimisation.
 
-Translated with www.DeepL.com/Translator (free version)
