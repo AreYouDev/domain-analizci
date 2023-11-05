@@ -1,3 +1,4 @@
+TR
 # SEO Domain Analizci
 Amacı: Expired Domain den bulunan domainlerin DA, TF, SS, İNDEX ve PR durumunu rapor olarak çıktı almak. Akabinde bu rapordaki PR durumu ve SS oranına göre bir ön eleme yaparak rapor.csv ye dökmek.
 
@@ -14,3 +15,23 @@ Amacı: Expired Domain den bulunan domainlerin DA, TF, SS, İNDEX ve PR durumunu
 - [ ] GUI/UI Yapılacak.
 - [ ] CrossPlatform ile hem windows hemde macos için sürümler hazırlanacak.
 - [ ] Kod Optimizasyonu.
+
+EN
+# SEO Domain Analyser
+Objective: To output the DA, TF, SS, INDEX and PR status of the domains found from Expired Domain as a report. Subsequently, according to the PR status and SS ratio in this report, to make a pre-selection and pour it into report.csv.
+
+## Libraries Used
+- Pandas
+- Selenium
+- Quote
+
+## Progress Status
+
+- [X] Report Generation
+- [X] Making Metric Analyses in the Report and preparing a more special report.
+- The features in the "filter.py" script, which is the script where data analysis is done, and the "web.py" script, where basic analysis is done, will be collected in the "main.py" file and made into a single piece.
+- GUI/UI will be made.
+- With CrossPlatform, versions will be prepared for both windows and macos.
+- Code Optimisation.
+
+Translated with www.DeepL.com/Translator (free version)
