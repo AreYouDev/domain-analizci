@@ -2,6 +2,7 @@
 Amacı: Expired Domain den bulunan domainlerin DA, TF, SS, İNDEX ve PR durumunu rapor olarak çıktı almak. Akabinde bu rapordaki PR durumu ve SS oranına göre bir ön eleme yaparak rapor.csv ye dökmek.
 
 ## Kullanılan Kütüphabeler
+- Pandas
 - Selenium
 - Quote
 
